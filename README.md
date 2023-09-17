@@ -2,5 +2,5 @@
 
 
 - 🔭 Passion in something ... (secret😊)
-- 💪 2023 Goals: Learning many things in Python
-- ⭐: Reading, listening, walking, running, playing piano... and blade wind😅
+- 💪 2023 Goals: Learning many things in Python ,C++ and HTML & CSS
+- ⭐: Reading, listening, ... and playing tennis ❤️
